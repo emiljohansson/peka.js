@@ -1,0 +1,27 @@
+{
+  "name": "peka.js",
+  "version": "0.0.0",
+  "description": "Adding touch support to websites",
+  "main": "peka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emiljohansson/peka.js"
+  },
+  "keywords": [
+    "touch",
+    "browser",
+    "point"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/peka.js/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/peka.js",
+  "devDependencies": {
+    "grunt-bower-install": "^1.6.0"
+  }
+}

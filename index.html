@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <title>Demo for touch event</title>
+</head>
+<body>
+    <div id="touch-elem">
+        <h1>Click/touch me</h1>
+    </div>
+
+    <!-- bower:js -->
+    <script src="bower_components/bowser/bowser.js"></script>
+    <!-- endbower -->
+    
+    <script src="peka.js"></script>
+    <script>
+        function demo() {
+            console.log("init");
+            var peka = new Peka('touch-elem');
+        }
+        window.onload = demo;
+    </script>
+</body>
+</html

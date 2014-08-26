@@ -1,0 +1,26 @@
+{
+  "name": "peka.js",
+  "main": "peka.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/emiljohansson/peka.js",
+  "authors": [
+    "Emil Johansson <emiljohansson.se@gmail.com>"
+  ],
+  "description": "Adding touch support to websites",
+  "keywords": [
+    "touch",
+    "browser",
+    "point"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bowser": "~0.7.1"
+  }
+}
